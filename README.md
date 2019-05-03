@@ -2,6 +2,7 @@
 ### Meetings/events/workshops
 - [x] 19/01/2019 DevMeeting Angular [Repo](https://github.com/Martin89PL/dev-meeting)
 - [x] 22/02/2019 PHPers Opole #3 [Video](https://www.youtube.com/watch?v=oALUici8QIE)
+- [x] 24/02/2019 WarsawJS Workshop #29 - Angular jako nowoczesny framework [Repo](https://github.com/Martin89PL/warsawjs-workshop-29-movies)
 - [x] 28/02/2019 Coding Dojo Silesia #A - Node.js edition [Resolved - repo](https://github.com/Martin89PL/familiada)
 - [x] 13/03/2019 UP#36: Dzień Dobry PHP [Data i czas dla programistów](https://uszanowanko.pl/prezentacja/data-i-czas-dla-programistow) [Websockety w PHP](https://uszanowanko.pl/prezentacja/websockety-w-php) [Kazdy popelnia bledy...](https://uszanowanko.pl/prezentacja/kazdy-popelnia-bledy-czyli-jak-lepiej-zarzadzac-bledami-ale-nie-wyjatkami)
 - [x] 07/04/2019 WarsawJS Workshop #31 — Node.js dla średnio-zaawansowanych

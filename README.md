@@ -1,6 +1,8 @@
 
 ### Meetings/events/workshops
 - [x] 22/02/2019 PHPers Opole #3 [Video](https://www.youtube.com/watch?v=oALUici8QIE)
+- [x] 28/02/2019 Coding Dojo Silesia #A - Node.js edition [Resolved - repo](https://github.com/Martin89PL/familiada)
+- [x] 07/04/2019 WarsawJS Workshop #31 — Node.js dla średnio-zaawansowanych
 - [x] 08/04/2019 4Developers
 - [x] 10/04/2019 ProMEET#23
 - [x] 13/04/2019 [workshops] Capgemini DevHours: Docker – od zera do kontenera [notes]

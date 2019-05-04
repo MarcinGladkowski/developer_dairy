@@ -14,10 +14,10 @@
 - [ ] 21/05/2019 PHPers Bielsko - Biała #4
  
 ### Ideas/plans/knowledge for projects
-- [] Raspberry PI camera with face detection
-- [] Get basic in Golang
-- [] Create webcomponent for own air measure sensor
-- [] Create new Api (Node.js, Express, TypeScript) with message broker (ex. Redis, RabbitMQ)
+- [ ] Raspberry PI camera with face detection
+- [ ] Get basic in Golang
+- [ ] Create webcomponent for own air measure sensor
+- [ ] Create new Api (Node.js, Express, TypeScript) with message broker (ex. Redis, RabbitMQ)
 
 ### Books
 - progress... Pragmatic Programmer

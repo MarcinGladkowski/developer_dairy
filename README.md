@@ -13,3 +13,11 @@
 - [ ] 14/05/2019 Coding Dojo Silesia [JavaScript Edition](https://www.meetup.com/Coding-Dojo-Silesia/events/261039714/)
 - [ ] 21/05/2019 PHPers Bielsko - Biała #4
  
+### Ideas/plans/knowledge for projects
+- [] Raspberry PI camera with face detection
+- [] Get basic in Golang
+- [] Create webcomponent for own air measure sensor
+- [] Create new Api (Node.js, Express, TypeScript) with message broker (ex. Redis, RabbitMQ)
+
+### Books
+- progress... Pragmatic Programmer

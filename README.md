@@ -12,12 +12,15 @@
 - [x] 16/04/2019 [Katowice] Testy automatyczne PHP [Repo](https://github.com/Martin89PL/PHPUnitWorkshops)
 - [ ] 14/05/2019 Coding Dojo Silesia [JavaScript Edition](https://www.meetup.com/Coding-Dojo-Silesia/events/261039714/)
 - [ ] 21/05/2019 PHPers Bielsko - Biała #4
+- [ ] 23/05/2019 Coding Dojo Silesia #CK - php edition
+- [ ] 6-7/09/2019 PHPERS SUMMIT 2019
  
 ### Ideas/plans/knowledge for projects
 - [ ] Raspberry PI camera with face detection
 - [ ] Get basic in Golang
 - [ ] Create webcomponent for own air measure sensor
 - [ ] Create new Api (Node.js, Express, TypeScript) with message broker (ex. Redis, RabbitMQ)
+- [ ] Own command for Google Asistent - DialogFlow
 
 ### Books
 - progress... Pragmatic Programmer

@@ -24,3 +24,6 @@
 
 ### Books
 - progress... Pragmatic Programmer
+
+### extra knowledge
+[Hack Your Career](https://github.com/HackYourCareer)

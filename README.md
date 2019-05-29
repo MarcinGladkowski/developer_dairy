@@ -10,9 +10,9 @@
 - [x] 10/04/2019 ProMEET#23
 - [x] 13/04/2019 [workshops] Capgemini DevHours: Docker – od zera do kontenera [notes]
 - [x] 16/04/2019 [Katowice] Testy automatyczne PHP [Repo](https://github.com/Martin89PL/PHPUnitWorkshops)
-- [X] 14/05/2019 Coding Dojo Silesia [JavaScript Edition](https://www.meetup.com/Coding-Dojo-Silesia/events/261039714/) in progress...
+- [x] 14/05/2019 Coding Dojo Silesia [JavaScript Edition](https://www.meetup.com/Coding-Dojo-Silesia/events/261039714/) in progress...
 - [ ] 21/05/2019 PHPers Bielsko - Biała #4
-- [ ] 23/05/2019 Coding Dojo Silesia #CK - php edition
+- [x] 23/05/2019 Coding Dojo Silesia #CK - php edition Repo in progress...
 - [ ] 6-7/09/2019 PHPERS SUMMIT 2019
  
 ### Ideas/plans/knowledge for projects
@@ -23,7 +23,8 @@
 - [ ] Own command for Google Asistent - DialogFlow
 
 ### Books
-- progress... Pragmatic Programmer
+- Pragmatic Programmer [Andrew Hunt, David Thomas]
+- [Praktyczny SQL](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
 
 ### extra knowledge
 [Hack Your Career](https://github.com/HackYourCareer)

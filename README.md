@@ -13,6 +13,7 @@
 - [x] 14/05/2019 Coding Dojo Silesia [JavaScript Edition](https://www.meetup.com/Coding-Dojo-Silesia/events/261039714/) in progress...
 - [ ] 21/05/2019 PHPers Bielsko - Biała #4
 - [x] 23/05/2019 Coding Dojo Silesia #CK - php edition Repo in progress...
+- [ ] 26/06/2019 PHPers Silesia [Docker & Docker Compose](https://www.slideshare.net/mariusz-alef-bak/przenie-si-do-kontenera-czyli-korzyci-z-docker-i-docker-compose?fbclid=IwAR3a9z7VwI67Fx6eeLUC2Ib___h-GkNaixzgGlO_t3d7hCLgXoDx2TSW23c)
 - [ ] 6-7/09/2019 PHPERS SUMMIT 2019
  
 ### Ideas/plans/knowledge for projects

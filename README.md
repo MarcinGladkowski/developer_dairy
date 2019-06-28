@@ -30,5 +30,8 @@
 ### extra knowledge
 [Hack Your Career](https://github.com/HackYourCareer)
 
+### To check
+https://slides.com/leszekprabucki/deck-3-4-9?fbclid=IwAR18NXl9hDblOJKG3IRD4hL4V9524AmIjTfDFIX6Eh2x3ggvv4WRNr-H3YA#/3
+
 ### to practice
 https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html#guide-assumptions

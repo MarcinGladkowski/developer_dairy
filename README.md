@@ -33,7 +33,7 @@
 Zrozumieć programowanie - Gynvael Coldwind 
 Sprawny programista - John Sonmez
 
-### extra knowledge
+### Extra knowledge
 [Hack Your Career](https://github.com/HackYourCareer)
 
 ### To check

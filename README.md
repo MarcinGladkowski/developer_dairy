@@ -30,7 +30,7 @@
 - [Praktyczny SQL](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
 
 ##### To read
-Zrozumieć programowanie - Gynvael Coldwind
+Zrozumieć programowanie - Gynvael Coldwind 
 Sprawny programista - John Sonmez
 
 ### extra knowledge

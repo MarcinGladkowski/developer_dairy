@@ -15,8 +15,10 @@
 - [x] 23/05/2019 Coding Dojo Silesia #CK - php edition Repo in progress...
 - [ ] 26/06/2019 PHPers Silesia [Docker & Docker Compose](https://www.slideshare.net/mariusz-alef-bak/przenie-si-do-kontenera-czyli-korzyci-z-docker-i-docker-compose?fbclid=IwAR3a9z7VwI67Fx6eeLUC2Ib___h-GkNaixzgGlO_t3d7hCLgXoDx2TSW23c)
 - [x] 01/07/2019 PHPers Kraków #5 
-- [ ] 19/07/2019 [workshops] Zostań znawcą mikroserwisów w jeden wieczór.
+- [x] 19/07/2019 [workshops] Zostań znawcą mikroserwisów w jeden wieczór.
+- [ ] 06/08/2019 No Exceptions #3 | Node.js i DevOps edition
 - [ ] 6-7/09/2019 PHPERS SUMMIT 2019
+- [ ] 15-17/11/2019 PHPcon Poland
  
 ### Ideas/plans/knowledge for projects
 - [ ] Raspberry PI camera with face detection

@@ -21,6 +21,7 @@
 - [x] 22/08/2019 Coding Dojo Silesia #FK - JS Edition
 - [ ] 6-7/09/2019 PHPERS SUMMIT 2019
 - [ ] 10/09/2019 Coding Dojo Silesia Gliwice #3G – JS edition
+- [ ] 14/08/2019 SpreadIT - voluntary service
 - [ ] 15-17/11/2019 PHPcon Poland
  
 ### Ideas/plans/knowledge for projects

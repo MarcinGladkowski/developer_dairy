@@ -21,10 +21,13 @@
 - [x] 22/08/2019 Coding Dojo Silesia #FK - JS Edition
 - [x] 6-7/09/2019 PHPERS SUMMIT 2019
 - [x] 10/09/2019 Coding Dojo Silesia Gliwice #3G – JS edition
-- [ ] 14/08/2019 SpreadIT - voluntary service
+- [x] 14/08/2019 SpreadIT - voluntary service
+- [x] 30/09/2019 meetjs Summit 2019
 - [ ] 15-17/11/2019 PHPcon Poland
  
 ### Ideas/plans/knowledge for projects
+- [ ] Doctrine type to binary-decimal
+- [ ] Doctrine encryption annotation
 - [ ] Raspberry PI camera with face detection
 - [ ] Get basic in Golang
 - [ ] Create webcomponent for own air measure sensor

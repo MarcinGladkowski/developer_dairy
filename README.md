@@ -24,6 +24,8 @@
 - [x] 14/08/2019 SpreadIT - voluntary service
 - [x] 30/09/2019 meetjs Summit 2019
 - [ ] 15-17/11/2019 PHPcon Poland
+- [ ] 24/10/2019 Coding Dojo Silesia #11K - Javascript Edition
+- [ ] 25/10/2019 HACKTOBERFEST KTW OPEN HACK NIGHT
  
 ### Ideas/plans/knowledge for projects
 - [ ] Doctrine type to binary-decimal

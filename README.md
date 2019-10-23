@@ -28,6 +28,7 @@
 - [ ] 25/10/2019 HACKTOBERFEST KTW OPEN HACK NIGHT
  
 ### Ideas/plans/knowledge for projects
+- [ ] https://www.youtube.com/watch?v=MWKAitSXv3g
 - [ ] Doctrine type to binary-decimal
 - [ ] Doctrine encryption annotation
 - [ ] Raspberry PI camera with face detection

@@ -43,6 +43,7 @@
 ##### To read
  - Zrozumieć programowanie - Gynvael Coldwind 
  - Sprawny programista - John Sonmez
+ - Clean Code - Robert C. Martin
 
 ### Extra knowledge
 [Hack Your Career](https://github.com/HackYourCareer)

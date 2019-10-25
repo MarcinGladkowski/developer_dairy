@@ -23,9 +23,11 @@
 - [x] 10/09/2019 Coding Dojo Silesia Gliwice #3G – JS edition
 - [x] 14/08/2019 SpreadIT - voluntary service
 - [x] 30/09/2019 meetjs Summit 2019
-- [ ] 15-17/11/2019 PHPcon Poland
-- [ ] 24/10/2019 Coding Dojo Silesia #11K - Javascript Edition
-- [ ] 25/10/2019 HACKTOBERFEST KTW OPEN HACK NIGHT
+- [x] 23/10/2019 PHPers Silesia  
+- [x] 24/10/2019 Coding Dojo Silesia #11K - Javascript Edition  
+- [ ] 25/10/2019 HACKTOBERFEST KTW OPEN HACK NIGHT  
+- [ ] 15-17/11/2019 PHPcon Poland  
+
  
 ### Ideas/plans/knowledge for projects
 - [ ] https://www.youtube.com/watch?v=MWKAitSXv3g

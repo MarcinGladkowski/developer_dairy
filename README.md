@@ -25,7 +25,7 @@
 - [x] 30/09/2019 meetjs Summit 2019
 - [x] 23/10/2019 PHPers Silesia  
 - [x] 24/10/2019 Coding Dojo Silesia #11K - Javascript Edition  
-- [ ] 25/10/2019 HACKTOBERFEST KTW OPEN HACK NIGHT  
+- [x] 25/10/2019 HACKTOBERFEST KTW OPEN HACK NIGHT  
 - [ ] 15-17/11/2019 PHPcon Poland  
 
  

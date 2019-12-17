@@ -40,14 +40,14 @@
 - [ ] Own command for Google Asistent - DialogFlow
 
 ### Books
- [x] Clean Code - Robert C. Martin  
- [x] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistów  
- [x] Pragmatyczny programista. Od czeladnika do mistrza  Andrew Hunt, David Thomas  
- [x] JavaScript Wzorce Stoyan Stefanov  
- [ ] Kali Linux. Testy bezpieczeństwa, testy penetracyjne i etyczne hakowanie Ric Messier  
- [ ] Praktyczny kurs SQL. Wydanie III  
- [ ] Zrozumieć programowanie - Gynvael Coldwind  
- [ ] Sprawny programista - John Sonmez 
+- [x] Clean Code - Robert C. Martin  
+- [x] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistów  
+- [x] Pragmatyczny programista. Od czeladnika do mistrza  Andrew Hunt, David Thomas  
+- [x] JavaScript Wzorce Stoyan Stefanov  
+- [ ] Kali Linux. Testy bezpieczeństwa, testy penetracyjne i etyczne hakowanie Ric Messier  
+- [ ] Praktyczny kurs SQL. Wydanie III  
+- [ ] Zrozumieć programowanie - Gynvael Coldwind  
+- [ ] Sprawny programista - John Sonmez 
 
 ### Extra knowledge
 [Hack Your Career](https://github.com/HackYourCareer)

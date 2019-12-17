@@ -26,8 +26,8 @@
 - [x] 23/10/2019 PHPers Silesia  
 - [x] 24/10/2019 Coding Dojo Silesia #11K - Javascript Edition  
 - [x] 25/10/2019 HACKTOBERFEST KTW OPEN HACK NIGHT  
-- [ ] 15-17/11/2019 PHPcon Poland  
-
+- [x] 15-17/11/2019 PHPcon Poland  
+- [x] 07/12/2019 ConFrontJS 2019
  
 ### Ideas/plans/knowledge for projects
 - [ ] https://www.youtube.com/watch?v=MWKAitSXv3g
@@ -40,13 +40,14 @@
 - [ ] Own command for Google Asistent - DialogFlow
 
 ### Books
-- Pragmatic Programmer [Andrew Hunt, David Thomas]
-- [Praktyczny SQL](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
-
-##### To read
- - Zrozumieć programowanie - Gynvael Coldwind 
- - Sprawny programista - John Sonmez
- - Clean Code - Robert C. Martin
+ [x] Clean Code - Robert C. Martin  
+ [x] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistów  
+ [x] Pragmatyczny programista. Od czeladnika do mistrza  Andrew Hunt, David Thomas
+ [x] JavaScript Wzorce Stoyan Stefanov
+ [ ] Kali Linux. Testy bezpieczeństwa, testy penetracyjne i etyczne hakowanie Ric Messier  
+ [ ] Praktyczny kurs SQL. Wydanie III  
+ [ ] Zrozumieć programowanie - Gynvael Coldwind  
+ [ ] Sprawny programista - John Sonmez 
 
 ### Extra knowledge
 [Hack Your Career](https://github.com/HackYourCareer)

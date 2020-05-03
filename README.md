@@ -1,0 +1,1 @@
+Activities [Actvities](https://github.com/MarcinGladkowski/developer_dairy/blob/master/Activities/notes.md)

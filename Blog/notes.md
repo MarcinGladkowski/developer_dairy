@@ -1,5 +1,6 @@
 # Pomysły na wpisy na blog do opracowania
 
+* How naming classes, variables ?
 * PHP - zachowanie: float, licznie pieniedzy, zaokraglanie kwot, biblioteki
 * JS - to samo co powyżej
 * PHPStorm/PHP: zaawansowane debugowanie, narzedzia toole

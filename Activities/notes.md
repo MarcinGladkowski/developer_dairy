@@ -1,6 +1,9 @@
 ### Meetings/events/workshops 2020
 - [x] 07/03/2020 BoilingFrogs https://2020.boilingfrogs.pl/
 - [x] 19/04/2020 WarsawJS Workshop #43 — JavaScript dla średnio zaawansowanych (2/3) [Repo](https://github.com/MarcinGladkowski/warsawjs-workshop-43)
+- [ ] 09/05/2020 DevMeeting Design Patterns in JavaScript [eng] online
+- [ ] 20/05/2020 4Developers online
+- [ ] 26/06/2020 Dutch PHP Conference 2020 – Online Edition
 
 ### Meetings/events/workshops 2019
 - [x] 19/01/2019 DevMeeting Angular [Repo](https://github.com/Martin89PL/dev-meeting)

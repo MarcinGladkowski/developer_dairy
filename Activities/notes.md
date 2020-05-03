@@ -1,5 +1,8 @@
+### Meetings/events/workshops 2020
+- [x] 07/03/2020 BoilingFrogs https://2020.boilingfrogs.pl/
+- [x] 19/04/2020 WarsawJS Workshop #43 — JavaScript dla średnio zaawansowanych (2/3) [Repo](https://github.com/MarcinGladkowski/warsawjs-workshop-43)
 
-### Meetings/events/workshops
+### Meetings/events/workshops 2019
 - [x] 19/01/2019 DevMeeting Angular [Repo](https://github.com/Martin89PL/dev-meeting)
 - [x] 22/02/2019 PHPers Opole #3 [Video](https://www.youtube.com/watch?v=oALUici8QIE)
 - [x] 24/02/2019 WarsawJS Workshop #29 - Angular jako nowoczesny framework [Repo](https://github.com/Martin89PL/warsawjs-workshop-29-movies)

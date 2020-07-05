@@ -22,3 +22,7 @@
 * Check process id from container on host `ps -aux | grep bash` -> this process is with `root`!
 > root       14703  0.2  0.0  18504  3156 pts/0    Ss+  11:40   0:00 /bin/bash
 
+### Best solutions
+* Do not use `root` user
+* Add own user on `Dockerfile`
+* If use some image from Dockerhub, user user from image using `--user` parameter

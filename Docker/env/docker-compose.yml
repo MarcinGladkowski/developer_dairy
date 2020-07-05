@@ -1,0 +1,10 @@
+version: '3.2'
+
+services:
+    postgres:
+        image: postgres:9.6
+        ports: 
+            - ${DB_PORT}:5432
+        environment: 
+            POSTGRES_PASSWORD: password
+            POSTGRES_USER: ${DB_USER}    
